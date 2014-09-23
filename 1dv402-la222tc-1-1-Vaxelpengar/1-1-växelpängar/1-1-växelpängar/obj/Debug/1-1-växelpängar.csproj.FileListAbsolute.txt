@@ -1,0 +1,6 @@
+C:\Users\Linus\Desktop\visualstudioprojects\Växelpengar\1dv402-la222tc-1-1-Vaxelpengar\1-1-växelpängar\1-1-växelpängar\bin\Debug\1-1-växelpängar.exe.config
+C:\Users\Linus\Desktop\visualstudioprojects\Växelpengar\1dv402-la222tc-1-1-Vaxelpengar\1-1-växelpängar\1-1-växelpängar\bin\Debug\1-1-växelpängar.exe
+C:\Users\Linus\Desktop\visualstudioprojects\Växelpengar\1dv402-la222tc-1-1-Vaxelpengar\1-1-växelpängar\1-1-växelpängar\bin\Debug\1-1-växelpängar.pdb
+C:\Users\Linus\Desktop\visualstudioprojects\Växelpengar\1dv402-la222tc-1-1-Vaxelpengar\1-1-växelpängar\1-1-växelpängar\obj\Debug\1-1-växelpängar.csprojResolveAssemblyReference.cache
+C:\Users\Linus\Desktop\visualstudioprojects\Växelpengar\1dv402-la222tc-1-1-Vaxelpengar\1-1-växelpängar\1-1-växelpängar\obj\Debug\1-1-växelpängar.exe
+C:\Users\Linus\Desktop\visualstudioprojects\Växelpengar\1dv402-la222tc-1-1-Vaxelpengar\1-1-växelpängar\1-1-växelpängar\obj\Debug\1-1-växelpängar.pdb
