@@ -11,7 +11,7 @@ namespace _1_1_växelpängar
         static void Main(string[] args)
         {
             double avrundningssumma, summan, totalsumma;
-            int belopp, betalsbelopp, belopptillbaka, lappar500,
+            int belopp, belopptillbaka, lappar500,
             lappar100, lappar50, lappar20, kronor10, kronor5, kronor1;
 
 
@@ -97,8 +97,6 @@ namespace _1_1_växelpängar
 
             summan = Math.Round(totalsumma);
             avrundningssumma = totalsumma - summan;
-
-            betalsbelopp = belopp - (int)summan;
 
             belopptillbaka = belopp - (int)summan;
 
